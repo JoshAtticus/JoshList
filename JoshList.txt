@@ -29,7 +29,6 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 zemanta.com
 0.0.0.0 www.zemanta.com
-0.0.0.0 *.zemanta.com
 0.0.0.0 paid.outbrain.com
 0.0.0.0 ads.bettermeower.app
 0.0.0.0 betterads.bettermeower.app
