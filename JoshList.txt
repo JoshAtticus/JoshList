@@ -53,3 +53,6 @@ ff02::3 ip6-allhosts
 
 # Plausible Instances
 0.0.0.0 analytics.jeffalo.net
+
+# Counter Analytics
+0.0.0.0 cdn.counter.dev
