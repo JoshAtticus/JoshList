@@ -50,3 +50,6 @@ ff02::3 ip6-allhosts
 # YouTube Ads
 0.0.0.0 lh5.googleusercontent.com
 0.0.0.0 lh3.googleusercontent.com
+
+# Plausible Instances
+0.0.0.0 analytics.jeffalo.net
