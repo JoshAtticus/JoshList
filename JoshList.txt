@@ -38,3 +38,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 media.ethicalads.io
 0.0.0.0 server.ethicalads.io
 0.0.0.0 lh5.googleusercontent.com
+0.0.0.0 lh3.googleusercontent.com
