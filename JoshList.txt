@@ -27,15 +27,26 @@ ff02::3 ip6-allhosts
 
 #=====================================
 
+# Bing
 0.0.0.0 zemanta.com
 0.0.0.0 www.zemanta.com
 0.0.0.0 paid.outbrain.com
+
+# BetterAds
 0.0.0.0 ads.bettermeower.app
 0.0.0.0 betterads.bettermeower.app
 0.0.0.0 adservice.bettermeower.app
+0.0.0.0 adhell.pages.dev
+0.0.0.0 betterads.pages.dev
+
+# Vivaldi Sponsored Shortcuts
 0.0.0.0 vivaldi.com/bk
 0.0.0.0 www.vivaldi.com/bk
+
+# EthicalAds
 0.0.0.0 media.ethicalads.io
 0.0.0.0 server.ethicalads.io
+
+# YouTube Ads
 0.0.0.0 lh5.googleusercontent.com
 0.0.0.0 lh3.googleusercontent.com
