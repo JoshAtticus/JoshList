@@ -56,3 +56,6 @@ ff02::3 ip6-allhosts
 
 # Counter Analytics
 0.0.0.0 cdn.counter.dev
+
+# Reddit Ads
+https://www.redditstatic.com/desktop2x/js/xads.js
