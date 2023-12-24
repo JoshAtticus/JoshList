@@ -4,21 +4,6 @@
 #
 # ===============================================================
 
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
-255.255.255.255 broadcasthost
-::1 localhost
-::1 ip6-localhost
-::1 ip6-loopback
-fe80::1%lo0 localhost
-ff00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0
-
 # Custom host records are listed here.
 
 
@@ -31,6 +16,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zemanta.com
 0.0.0.0 www.zemanta.com
 0.0.0.0 paid.outbrain.com
+0.0.0.0 srtb.msn.com
 
 # BetterAds
 0.0.0.0 ads.bettermeower.app
@@ -57,5 +43,16 @@ ff02::3 ip6-allhosts
 # Counter Analytics
 0.0.0.0 cdn.counter.dev
 
-# Reddit Ads
-https://www.redditstatic.com/desktop2x/js/xads.js
+# Suspicious Domains
+0.0.0.0 (\.|^)celsoazevedo\.com$
+
+# Apple
+0.0.0.0 canary.mask.apple-dns.net
+0.0.0.0 smoot-searchv2-aapse2c.v.aaplimg.com
+
+# Facebook
+0.0.0.0 star.c10r.facebook.com
+0.0.0.0 star.fallback.c10r.facebook.com
+
+# Venatus Media
+0.0.0.0 ctrack.venatusmedia.com
