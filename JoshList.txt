@@ -25,10 +25,6 @@
 0.0.0.0 adhell.pages.dev
 0.0.0.0 betterads.pages.dev
 
-# Vivaldi Sponsored Shortcuts
-0.0.0.0 vivaldi.com/bk
-0.0.0.0 www.vivaldi.com/bk
-
 # EthicalAds
 0.0.0.0 media.ethicalads.io
 0.0.0.0 server.ethicalads.io
@@ -44,7 +40,7 @@
 0.0.0.0 cdn.counter.dev
 
 # Suspicious Domains
-0.0.0.0 (\.|^)celsoazevedo\.com$
+0.0.0.0 celsoazevedo.com
 
 # Apple
 0.0.0.0 canary.mask.apple-dns.net
