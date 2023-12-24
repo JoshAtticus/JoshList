@@ -49,6 +49,7 @@
 # Facebook
 0.0.0.0 star.c10r.facebook.com
 0.0.0.0 star.fallback.c10r.facebook.com
+0.0.0.0 c10r.facebook.com
 
 # Venatus Media
 0.0.0.0 ctrack.venatusmedia.com
