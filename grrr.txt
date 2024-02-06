@@ -1,0 +1,15 @@
+# Title: JoshAtticus/Grrr
+#
+# This hosts file contains all URLs blocked personally by JoshAtticus
+#
+# ===============================================================
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start JoshList
+
+#=====================================
+
+0.0.0.0 iam.educationperfect.com
