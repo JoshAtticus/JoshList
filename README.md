@@ -1,2 +1,2 @@
 # JoshList
-Blocking the things that StevenBlock doesn't (for Pi Hole btw)
+Pi-Hole Ad-list that blocks stuff the default StevenBlock list doesn't
