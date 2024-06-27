@@ -40,7 +40,7 @@ app.bugsnag.com
 # Sentry
 browser.sentry-cdn.com
 app.getsentry.com
-*.sentry.io
+sentry.io
 
 # Reddit
 events.reddit.com
