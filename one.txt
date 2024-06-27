@@ -1,16 +1,9 @@
-# Title: JoshAtticus/JoshList
-#
-# This hosts file contains all URLs blocked personally by JoshAtticus
-#
-# ===============================================================
-
-# Custom host records are listed here.
-
-
-# End of custom host records.
-# Start JoshList
-
-#=====================================
+#        __           __    __    _      __     ___ ____ 
+#       / /___  _____/ /_  / /   (_)____/ /_   <  // __ \
+#  __  / / __ \/ ___/ __ \/ /   / / ___/ __/   / // / / /
+# / /_/ / /_/ (__  ) / / / /___/ (__  ) /_    / // /_/ / 
+# \____/\____/____/_/ /_/_____/_/____/\__/   /_(_)____/  
+                                                       
 
 # Bing
 0.0.0.0 zemanta.com
